@@ -123,7 +123,7 @@ GROUP BY item_fat_content ;
 ```
 ----
 6.Write a SQL query to find total sales by item type
-``sql
+```sql
 SELECT item_type,
        CAST(SUM(total_sales)AS decimal(10,2)) AS Total_sales	
 FROM blinkit_data
