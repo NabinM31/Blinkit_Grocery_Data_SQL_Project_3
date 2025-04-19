@@ -1,5 +1,7 @@
 # 🛒 Blinkit Grocery Data Analysis Project 🚀
 
+![Built With](https://img.shields.io/badge/Built%20With-SQL-blue) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 <p align="center">
   <img src="logo.png" width="200" alt="Project Logo">
 </p>
